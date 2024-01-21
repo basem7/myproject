@@ -1,0 +1,23 @@
+.para1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(4, 4, 5);
+    background-color: rgb(178, 229, 172);
+    display: inline;
+    font-size: large;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.box1{
+    background-color: aqua;
+    height: 100px;
+    width: 50px;
+
+}
+
+.box2{
+    background-color: blueviolet;
+    height: 100px;
+    width: 50px;
+}
