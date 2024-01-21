@@ -6,6 +6,12 @@
     font-size: large;
 }
 
+.para2{
+background-color: rgb(197, 180, 28);
+font-size: larger;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 body{
     background-color: yellow;
 }
